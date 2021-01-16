@@ -1,5 +1,6 @@
 body {
   font-family: sans-serif;
+  font-weight:lighter;
 }
 
 .column {
@@ -8,6 +9,7 @@ body {
 
 img {
   max-width: 100%;
+  float: left;
 }
 
 .subtitle {

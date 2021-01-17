@@ -4,7 +4,7 @@ body {
 }
 
 .column {
-  width: 25%;
+  width: 20%;
   padding: 20px;
   border: solid black;
   border-width: 5px;
@@ -22,4 +22,8 @@ img {
   color:grey;
   font-style: italic;
   font-family: serif;
+}
+
+li {
+  padding: 10px;
 }

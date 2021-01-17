@@ -10,12 +10,14 @@ body {
   border-width: 5px;
   background-color:seashell;
   margin-bottom: 10px;
+  margin-left: 5px;
   box-sizing: border-box;
+  float: left;
  }
 
 img {
-  max-width: 100%;
   float: left;
+  max-width: 100%;
 }
 
 .subtitle {

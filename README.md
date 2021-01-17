@@ -14,7 +14,7 @@
 
 ## Description
 
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
+_This website offers a look at who I am, at my background, and at the coding work that I have done so far. It contains links to github pages for my projects as well as their github repositories. It contains my educational background and my non-coding hobbies._
 
 ## Setup/Installation Requirements
 

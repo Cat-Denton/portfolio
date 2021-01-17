@@ -3,6 +3,10 @@ body {
   font-weight:lighter;
 }
 
+.header {
+  text-decoration: underline;
+}
+
 .column {
   width: 20%;
   padding: 20px;

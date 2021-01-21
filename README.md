@@ -18,7 +18,7 @@ _This website offers a look at who I am, at my background, and at the coding wor
 
 ## Setup/Installation Requirements
 
-* _[Click here!](Cat-Denton.github.io/portfolio)_
+* [Click here!](Cat-Denton.github.io/portfolio/)
 
 ## Known Bugs
 

@@ -18,7 +18,10 @@ _This website offers a look at who I am, at my background, and at the coding wor
 
 ## Setup/Installation Requirements
 
-* [Click here!](https://cat-denton.github.io/portfolio/)
+* Clone repository to your local machine
+* Navigate to the top level of the directory
+* Open index.html
+* [Click here](https://cat-denton.github.io/portfolio/) to visit the gh-pages distribution of the website.
 
 ## Known Bugs
 
